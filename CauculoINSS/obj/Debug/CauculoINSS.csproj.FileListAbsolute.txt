@@ -1,0 +1,10 @@
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\bin\Debug\CauculoINSS.exe.config
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\bin\Debug\CauculoINSS.exe
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\bin\Debug\CauculoINSS.pdb
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\obj\Debug\CauculoINSS.csproj.AssemblyReference.cache
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\obj\Debug\CauculoINSS.Form1.resources
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\obj\Debug\CauculoINSS.Properties.Resources.resources
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\obj\Debug\CauculoINSS.csproj.GenerateResource.cache
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\obj\Debug\CauculoINSS.csproj.CoreCompileInputs.cache
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\obj\Debug\CauculoINSS.exe
+C:\Users\loren\OneDrive\Área de Trabalho\Fiap\Linguagem de Programação\CauculoINSS\CauculoINSS\obj\Debug\CauculoINSS.pdb
